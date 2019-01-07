@@ -21,7 +21,7 @@ const calculator = {
         return this.returnValue
     },
     clearCalc: function() {
-        this.returnValue = 0
+        this.returnValue = 1
         return this.returnValue
     }
 }
